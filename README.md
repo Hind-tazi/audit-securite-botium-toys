@@ -4,7 +4,7 @@
 
 **Entreprise auditée :** Botium Toys  
 **Date de l’audit :** 03/05/2025  
-**Auditeur :** [Ton nom ici]  
+**Auditeur :** [Tazi Hind]  
 **Cadre de référence :** NIST Cybersecurity Framework (NIST CSF)
 
 **Contexte :**  
